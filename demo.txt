@@ -1,1 +1,2 @@
-本人其实呵呵 dev
+this is git branch test .
+now,the feature and the dev branch haved been created.
